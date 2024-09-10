@@ -4,7 +4,7 @@
 -
 - Sou um entusiasta de tecnologia e desenvolvimento de sistemas, atualmente cursando Técnico em Desenvolvimento de Sistemas. 
 - Trabalho como Ajustador Técnico em uma empresa de injeção de plástico Mode in label e estou sempre buscando maneiras de aplicar a automação e a IA para melhorar processos e criar soluções inovadoras.
-
+-
 - 🌱 O que estou fazendo agora
 -
 - Desenvolvendo um sistema de gerenciamento de operações com uma interface amigável para computadores e dispositivos móveis.
