@@ -12,13 +12,13 @@
 - 
 - 💞️ Meus interesses ...
 - 
-- Desenvolvimento de sistemas back-end
+- Desenvolvimento de sistemas em linguagem Java, Java Script,Php,CSS, HTML
 - Automação e regulamentação de IA
-- Projetos inovadores em tecnologia e indústria
+- Projetos, Diagramas de Casos de uso e SQL.
 -
 - 📫 Projetos Recentes ...
 -
--  Sistema de Gestão de Membros em Java: Criando uma aplicação com interface gráfica e com Validação de Idade
+-  Sistema de Gestão de Membros em linguagem Java: Criando uma aplicação com interface gráfica e com Validação de Idade
 -  Programa para diária de carro
 - 
 - ⚡ Entre em Contato: ...
