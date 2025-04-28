@@ -1,9 +1,4 @@
-- 👋  Olá, eu sou Leonardo!
--
--  👀 Sobre Mim
--
-- Sou um entusiasta de tecnologia e desenvolvimento de sistemas, atualmente cursando Técnico em Desenvolvimento de Sistemas. 
-- Trabalho como Ajustador Técnico em uma empresa de injeção de plástico Mode in label e estou sempre buscando maneiras de aplicar a automação e a IA para melhorar processos e criar soluções inovadoras.
+
 -
 - 🌱 O que estou fazendo agora
 -
@@ -25,10 +20,6 @@
 -
 - Email: leonardomartinss20155@gmail.com
 - LinkedIn:
-- GitHub:
 
 - Fique à vontade para explorar meus projetos e entrar em contato se você tiver alguma pergunta ou apenas quiser conversar sobre tecnologia!
-<!---
-LeonardoBackEnd/LeonardoBackEnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
