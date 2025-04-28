@@ -7,14 +7,16 @@
 - 
 - 💞️ Meus interesses ...
 - 
-- Desenvolvimento de sistemas em linguagem Java, Java Script,Php,CSS, HTML
+- Desenvolvimento de sistemas em linguagem Java, Java Script,Php,CSS, HTML, PHP, SQL, C#, .NET MAU
 - Automação e regulamentação de IA
-- Projetos, Diagramas de Casos de uso e SQL.
+- Projetos, Diagramas de Casos de uso e SQL. Projetos Web com CRUD, PDOO e aplicativos móveis e de desktop usando C# e XAML
 -
 - 📫 Projetos Recentes ...
 -
 -  Sistema de Gestão de Membros em linguagem Java: Criando uma aplicação com interface gráfica e com Validação de Idade
 -  Programa para diária de carro
+-  Projeto web em PHP e CRUD
+-  Aplicativo Moblie para calcular Preço de combustil .NET MAUI (Multi-platform App UI)
 - 
 - ⚡ Entre em Contato: ...
 -
